@@ -8,7 +8,7 @@ In my career at IBM, I craft internal support tools and collaborate with managem
 
 ## Navigating Mobile Device Management
 
-With over 5 years in the realm of mobile device management, including a 3-year stint as a Technical Advisory Engineer and System Architect for IBM Security MaaS360, I've handled tasks like:
+With over 8 years in the realm of mobile device management, including a 3-year stint as a Technical Advisory Engineer and System Architect for IBM Security MaaS360, I've handled tasks like:
 
 - Designing and implementing mobile device management solutions
 - Configuring and managing a variety of devices (iOS, Android, Mac OS, Windows)
